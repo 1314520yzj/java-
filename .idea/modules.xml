@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/gitwork.iml" filepath="$PROJECT_DIR$/gitwork.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/myFirstubuntuJava.iml" filepath="$PROJECT_DIR$/myFirstubuntuJava.iml" />
+>>>>>>> 9a28d1ed9324023315dd4eb358e7dd5b9eac9942
     </modules>
   </component>
 </project>
